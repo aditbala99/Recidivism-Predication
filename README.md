@@ -104,5 +104,3 @@ Based on the tables, it seems that the Backward Elimination feature selection me
 **Best Model:**
 Looking at the average accuracy, precision, and recall values for each model, we can see that the Naïve Bayes model consistently performs well across all attribute selection methods, followed by the Neural Nets and Support Vector Machine and Random Forest Classification models. Weka models generally have lower average performance across all attribute selection methods. Therefore, we can conclude that the Naïve Bayes model is the best performing model across all classifiers.
 
-**Project Learnings:**
-- Feature selection is a crucial step in
